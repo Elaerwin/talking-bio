@@ -1,0 +1,24 @@
+[29-Jul-2020 10:55:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getPluginsManager() on null in C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php:163
+Stack trace:
+#0 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(287): ExtendBuilder\{closure}(Array)
+#1 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php(223): apply_filters('extendbuilder_w...', Array)
+#3 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(287): ExtendBuilder\{closure}('')
+#4 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Ar in C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php on line 163
+[29-Jul-2020 10:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getPluginsManager() on null in C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php:163
+Stack trace:
+#0 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(287): ExtendBuilder\{closure}(Array)
+#1 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php(223): apply_filters('extendbuilder_w...', Array)
+#3 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(287): ExtendBuilder\{closure}('')
+#4 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Ar in C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php on line 163
+[29-Jul-2020 10:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getPluginsManager() on null in C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php:163
+Stack trace:
+#0 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(287): ExtendBuilder\{closure}(Array)
+#1 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php(223): apply_filters('extendbuilder_w...', Array)
+#3 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(287): ExtendBuilder\{closure}('')
+#4 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\Anna\Local Sites\talking-biology\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Ar in C:\Users\Anna\Local Sites\talking-biology\app\public\wp-content\plugins\colibri-page-builder\extend-builder\customizer\editor-data\index.php on line 163
